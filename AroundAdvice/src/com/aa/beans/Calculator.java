@@ -10,4 +10,8 @@ public class Calculator {
 		System.out.println("in multiply()");
 		return a * b;
 	}
+	public int sub(int a, int b)
+	{
+		System.out.println("in sub()");
+		return  a-b;
 }
