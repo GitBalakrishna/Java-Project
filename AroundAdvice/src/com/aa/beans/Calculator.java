@@ -14,4 +14,9 @@ public class Calculator {
 	{
 		System.out.println("in sub()");
 		return  a-b;
+	}
+	public int div(int a, int b)
+	{
+		System.out.println("in sub()");
+		return  a/b;
 }
